@@ -1,3 +1,41 @@
+.header--title-container h1 {
+    font-size: 3.3rem;
+    line-height: 4.6rem;
+}
+
+.main-exchange-container--title h2 {
+    font-size: 2.6rem;
+}
+
+.main-exchange-container--title p {
+    font-size: 1.8rem;
+    margin-bottom: 50px;
+}
+
+.main-exchange-container p {
+    font-size: 1.6rem;
+}
+
+.header--title-container p {
+    font-size: 1.8rem;
+}
+
+.product-detail--title h2 {
+    font-size: 2.6rem;
+}
+
+.product-detail--title p {
+    font-size: 1.6rem;
+}
+
+.product--card-title {
+    font-size: 2.1rem;
+}
+
+.product--card-body {
+    font-size: 1.5rem;
+}
+
 .main-tables-container {
     display: flex;
     width: 930px;
@@ -11,6 +49,15 @@
     margin: 0 auto;
 }
 
+.plans--title h2 {
+    font-size: 2.6rem;
+}
+
+.plans--title p {
+    font-size: 1.6rem;
+}
+
 .plans-container--slider {
     justify-content: center;
+    overflow: hidden;
 }
